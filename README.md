@@ -1,1 +1,1 @@
-Predict the MVP of the current NBA season
+Predict the upcoming MVP for the current NBA season
